@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as a,a4 as t}from"./chunks/framework.E4YCCYO0.js";const q=JSON.parse('{"title":"其他角度理解mysql","description":"","frontmatter":{},"headers":[],"relativePath":"mysql/tips.md","filePath":"mysql/tips.md"}'),l={name:"mysql/tips.md"},n=t("",5),c=[n];function i(p,o,r,d,_,m){return a(),s("div",null,c)}const y=e(l,[["render",i]]);export{q as __pageData,y as default};

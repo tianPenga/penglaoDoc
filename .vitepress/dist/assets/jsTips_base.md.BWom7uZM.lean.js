@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a4 as n}from"./chunks/framework.E4YCCYO0.js";const c=JSON.parse('{"title":"es特性","description":"","frontmatter":{},"headers":[],"relativePath":"jsTips/base.md","filePath":"jsTips/base.md"}'),h={name:"jsTips/base.md"},t=n("",9),p=[t];function l(k,e,E,r,d,g){return a(),i("div",null,p)}const y=s(h,[["render",l]]);export{c as __pageData,y as default};
